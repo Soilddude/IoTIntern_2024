@@ -5,9 +5,9 @@
 #include <BlynkSimpleEsp8266.h>
 #include <RCSwitch.h>
 
-char auth[] = "3gZQ6kuoM3FeyEBcxg3LV5qEUrR1xvVc";
-char ssid[] = "Tharunika's Galaxy M31";
-char pass[] = "tharuni@120";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxx";
+char ssid[] = "xxxxxxxxxx";
+char pass[] = "xxxxxxxxxxxxx";
 
 RCSwitch mySwitch = RCSwitch(); 
 
